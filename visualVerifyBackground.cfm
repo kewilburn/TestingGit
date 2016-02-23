@@ -1,5 +1,8 @@
 <html>
 	<head>
+		<title>
+			Background Verification
+		</title>
 		<style>
 			body {
 				margin: 50px;
